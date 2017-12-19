@@ -1,4 +1,4 @@
-# A elegance method for across the WALL
+# An elegant method for across the WALL
 ## For Windows Users
 Just simply download elegance.rar and unzip it with the password `elegance`, then open `shadowsocks.exe` and start to enjoy the Internet without boundaries.
 ## For Mac Users

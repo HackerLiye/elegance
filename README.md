@@ -6,11 +6,13 @@
 
 服务器链接凭据如下：
 ```
-IP: 35.234.9.153
+IP: 坏掉了 = =
 Port: 8989
 Password: 123456
 Encryption: aes-256-cfb
 ```
+搭建方法在这里，需要科学上网的环境还有一张信用卡
+https://suiyuanjian.com/124.html
 ## 如果你使用Windows
 1. 在[这里](https://github.com/shadowsocks/shadowsocks-windows/releases)下载最新的Shadowsocks版本
 2. 下载完毕后解压，运行之后右下角会出现一个小飞机的图标，编辑服务器，将上面的服务器信息填入后保存

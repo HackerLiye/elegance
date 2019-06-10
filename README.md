@@ -16,6 +16,9 @@ ssr://MzUuMTg5LjE3Mi4xOTQ6MTIyNjc6YXV0aF9jaGFpbl9hOmNoYWNoYTIwLWlldGY6dGxzMS4yX3
 > 
 > 混淆： tls1.2_ticket_auth
 
+搭建方法在这里，需要科学上网的环境还有一张信用卡
+https://suiyuanjian.com/124.html
+
 ### 来自Vultr的
 硅谷的服务器，速度一般
 ```
@@ -31,14 +34,19 @@ ssr://MTQ5LjI4LjIxMi4xNjc6MTA0MTk6YXV0aF9jaGFpbl9hOmNoYWNoYTIwLWlldGY6dGxzMS4yX3
 > 
 > 混淆： tls1.2_ticket_auth
 
-搭建方法在这里，需要科学上网的环境还有一张信用卡
-https://suiyuanjian.com/124.html
 ## 如果你使用Windows
-1. 在[这里](https://github.com/shadowsocks/shadowsocks-windows/releases)下载最新的Shadowsocks版本
+1. 在[这里](ShadowsocksR-win-4.9.0.zip)下载ShadowsocksR的Windows版本
 2. 下载完毕后解压，运行之后右下角会出现一个小飞机的图标，编辑服务器，将上面的服务器信息填入后保存
-3. 选择PAC模式并启动Shadowsocks，再打开浏览器应该就能科学上网了
+3. 选择PAC模式并启动ShadowsocksR，再打开浏览器应该就能科学上网了
+
 ## 如果你是Mac用户
-1. 在[这里](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)下载最新的ShadowsocksX-NG
+1. 在[这里](ShadowsocksX-NG-R8.dmg)下载ShadowsocksX-NG
 2. 下载完毕后打开，会看到新弹出的窗口中有个Shadowsocks的图标
-3. 这里有最重要的一步，将这个软件复制到Application文件夹之后打开，否则会无效
-4. 运行后上面任务栏会出现一个小飞机图标，同样编辑服务器将凭据填入，选择PAC模式并启动Shadowsocks，此时应该就能科学上网了
+3. 这里有最重要的一步，将这个软件**复制到Application文件夹之后打开**，否则会无效
+4. 运行后上面任务栏会出现一个小飞机图标，同样编辑服务器将凭据填入，选择PAC模式并启动ShadowsocksR，此时应该就能科学上网了
+
+## 如果你用安卓系统
+1. 在[这里](shadowsocksr-android-3.5.4.apk)下载最新的安卓版ShadowsocksR
+2. 下载完毕后安装，桌面上会多出一个粉色的SSR图标
+3. 点进去，新建服务器设置，把上面的服务器信息填进去，链接之后应该就可以科学上网了
+

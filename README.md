@@ -1,7 +1,7 @@
 # 如何优雅地上网
 ## 服务器信息
 下面的服务器截至2019/6/10可用
-## 来自Google Cloud的
+### 来自Google Cloud的
 台北滴服务器，在武汉大学速度很快
 ```
 ssr://MzUuMTg5LjE3Mi4xOTQ6MTIyNjc6YXV0aF9jaGFpbl9hOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOk1USXpORFUyLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9WjI5dloyeGxMWE56Y2cmZ3JvdXA9
@@ -16,7 +16,7 @@ ssr://MzUuMTg5LjE3Mi4xOTQ6MTIyNjc6YXV0aF9jaGFpbl9hOmNoYWNoYTIwLWlldGY6dGxzMS4yX3
 > 
 > 混淆： tls1.2_ticket_auth
 
-## 来自Vultr的
+### 来自Vultr的
 硅谷的服务器，速度一般
 ```
 ssr://MTQ5LjI4LjIxMi4xNjc6MTA0MTk6YXV0aF9jaGFpbl9hOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOk1USXpORFUyLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9ZG5Wc2RISXRjMmxzYVdOdmJpMTJZV3hzWlhrJmdyb3VwPQ
